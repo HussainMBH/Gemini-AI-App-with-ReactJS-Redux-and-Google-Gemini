@@ -65,8 +65,3 @@ To get started with the Gemini AI App, follow these steps:
    You can deploy the application using any static site hosting service such as Vercel, Netlify, or GitHub Pages.
 
    For example, to deploy on Vercel:
-
-   ```bash
-   npm install -g vercel
-   vercel
-   ```
